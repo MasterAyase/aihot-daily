@@ -7,3 +7,14 @@ Thumbs.db
 run_daily_brief.bat
 _github_upload.ps1
 _github_upload.py
+run_daily_brief.bat
+_github_upload.ps1
+_github_upload.py
+_debug_gh.py
+_debug2_gh.py
+_gitdata_upload.py
+_gitdata_curl.py
+_tree_body.json
+_workflow.yml
+_upload_to_github.ps1
+_upload_v2.ps1
