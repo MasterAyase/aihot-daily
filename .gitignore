@@ -1,0 +1,9 @@
+.trae/
+daily_brief_log.txt
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+run_daily_brief.bat
+_github_upload.ps1
+_github_upload.py
